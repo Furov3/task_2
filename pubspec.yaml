@@ -1,0 +1,12 @@
+name: hello_dart_vm
+version: 0.0.1
+description: Hello Dart for VM
+author: Super Dart Coder
+
+dependencies:
+
+dev_dependencies:
+  test: ^0.12.30
+
+executables:
+  hdvm: main
